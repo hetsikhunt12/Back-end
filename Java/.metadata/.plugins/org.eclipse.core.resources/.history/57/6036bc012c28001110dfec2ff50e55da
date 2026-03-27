@@ -1,0 +1,11 @@
+package practice;
+
+public class arithmatic {
+    public static void main(String[] args) {
+		int a=10, b=5;
+		
+		System.out.println("1.addition: "+a+b);
+		System.out.println("2.Subtraction: "+a-b);
+		
+	}
+}

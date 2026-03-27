@@ -1,0 +1,27 @@
+package practice;
+
+public class if_else {
+     public static void main(String[] args) {
+		int num=5,n=8;
+		
+//		if-else
+		if(num>0)
+		{
+			System.out.println("number is positive");
+		}
+		else
+		{
+			System.out.println("number is negative");
+		}
+		
+//		even odd
+		if(n%2==0)
+		{
+			System.out.println("Even number");
+		}
+		else
+		{
+			System.out.println("odd number");
+		}
+	}
+}
